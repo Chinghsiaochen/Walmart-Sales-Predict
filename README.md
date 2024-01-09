@@ -1,5 +1,7 @@
 # Walmart Sales Prediction
 
+![sales-forecasting-open-graph](https://github.com/Chinghsiaochen/Walmart-Sales-Predict/assets/104823654/ec29a509-01ce-40ed-83ab-bb4afbc03075)
+
 ![Python 3.6](https://img.shields.io/badge/Python-3.10-brightgreen.svg)    ![Problem Kaggle](https://img.shields.io/badge/Problem-Vision-blue.svg)     ![Problem Kaggle](https://img.shields.io/badge/Data-Kaggle-orange.svg)
 
 ## Business Goal
